@@ -10,4 +10,14 @@ UART: 2 pins near chip, see picture, tx/rx.
 
 ircut distance: 22mm (not 20mm)
 
+U-boot printenv for OpenIPC network
+-----------------------------------
+
+```
+mdio_intf=rmii
+phyaddru=0
+phyaddrd=1
+extras=hieth.phyaddru=0 hieth.phyaddrd=1
+sensor=ar0130
+```
 
