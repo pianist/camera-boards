@@ -1,0 +1,16 @@
+# ./ipctool-2024-03-26 gpio scan
+Gr: 0, Addr:0x201400FC, Data:0x26 = 0bxx100110, Addr:0x20140400, Dir:0x1B = 0bxx011011
+Gr: 1, Addr:0x201501C0, Data:0x00 = 0bx000xxxx, Addr:0x20150400, Dir:0x00 = 0bx000xxxx
+Gr: 2, Addr:0x201600F0, Data:0x2C = 0bxx1011xx, Addr:0x20160400, Dir:0x28 = 0bxx1010xx
+Gr: 3, Addr:0x20170000, Data:0x00 = 0bxxxxxxxx, Addr:0x20170400, Dir:0x00 = 0bxxxxxxxx
+Gr: 4, Addr:0x20180000, Data:0x00 = 0bxxxxxxxx, Addr:0x20180400, Dir:0x00 = 0bxxxxxxxx
+Gr: 5, Addr:0x201903C0, Data:0x00 = 0b0000xxxx, Addr:0x20190400, Dir:0x00 = 0b0000xxxx
+Gr: 6, Addr:0x201A0000, Data:0x00 = 0bxxxxxxxx, Addr:0x201A0400, Dir:0x00 = 0bxxxxxxxx
+Gr: 7, Addr:0x201B0380, Data:0x60 = 0b011xxxxx, Addr:0x201B0400, Dir:0x00 = 0b000xxxxx
+Gr: 8, Addr:0x201C0000, Data:0x00 = 0bxxxxxxxx, Addr:0x201C0400, Dir:0x00 = 0bxxxxxxxx
+Gr: 9, Addr:0x201D03FC, Data:0x00 = 0b00000000, Addr:0x201D0400, Dir:0x00 = 0b00000000
+Gr:10, Addr:0x201E0000, Data:0x00 = 0bxxxxxxxx, Addr:0x201E0400, Dir:0x00 = 0bxxxxxxxx
+Gr:11, Addr:0x201F0000, Data:0x00 = 0bxxxxxxxx, Addr:0x201F0400, Dir:0x00 = 0bxxxxxxxx
+======================================================================================
+Waiting for while something changes...
+

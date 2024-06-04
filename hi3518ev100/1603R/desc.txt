@@ -1,0 +1,13 @@
+Board description
+-----------------
+
+Sensor: ar0130
+ircut gpio: 3,4
+
+Sensor is off on start, echo 1 > GPIO1 to start it.
+
+UART: 2 pins near chip, see picture, tx/rx.
+
+ircut distance: 22mm (not 20mm)
+
+
